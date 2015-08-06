@@ -22,7 +22,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func changeColorComponent(sender: AnyObject) {
-        
         let r: CGFloat = self.redControl.on ? 1 : 0
         let g: CGFloat = self.greenControl.on ? 1 : 0
         let b: CGFloat = self.blueControl.on ? 1 : 0
