@@ -137,7 +137,7 @@
                     <connections>
                         <outlet property="blueControl" destination="mrj-g1-6nX" id="Hte-pB-XGC"/>
                         <outlet property="colorView" destination="AjB-H9-6TC" id="Gt7-G8-GYq"/>
-                        <outlet property="greenControl" destination="mrj-g1-6nX" id="jiX-BW-YVq"/>
+                        <outlet property="greenControl" destination="aoV-z2-sOS" id="YYI-fR-Wah"/>
                         <outlet property="redControl" destination="zZ7-a9-FSD" id="FJR-vG-dR3"/>
                     </connections>
                 </viewController>
